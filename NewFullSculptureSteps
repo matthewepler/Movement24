@@ -1,0 +1,18 @@
+MAKE A FULL SCULPTURE OBJECT
+
+1. Create New Project
+2. Paste Code
+3. Save As "Take_##_full"
+4. Correct commented-out title at top
+5. Correct "take" global variable to match filename
+6. Check "version" global variable, change description if making changes
+7. Find appropriate txt files, drag into project window to add to sketch
+8. In Sketch/data folder, rename files in simple numerics 1-15
+9. Open txt files and delete rows at top with "zero" values. Save and close.
+10. Run sketch
+11. Press 'o' to save OBJ file. 
+12. When confirmation message "[SuperCAD]: ObjFile (Done)" appears, close applet
+13. OBJ file is now in sketch folder
+
+If you run this same sketch again, change the "version" global variable
+to avoid overriting previous OBJ export.
